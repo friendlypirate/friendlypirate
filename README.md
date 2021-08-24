@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, puns, board games, outdoor living, sports and Jameson.
 - 🌱 I’m currently learning Javascript, React, CSS, HTML and how to be a better person.
 - 💞️ I’m looking to collaborate on everything coding including making games and code wars.
-- 📫 How to reach me through my linked in at Nguyen (Wyn) Bui, IG at friendlypirat3 or twitter at @friendlypirate3
+- 📫 Reach me through my LinkedIn at Nguyen (Wyn) Bui, IG at friendlypirat3 or twitter at @friendlypirate3
 
 Projects:
 - ⏱ Timeless(JunoProject4): An agency style project where we created an app for users to create and store meetings accounting for different Timezones.  Built using React/Firebase/Multiple APIs
