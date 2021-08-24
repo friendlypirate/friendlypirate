@@ -9,4 +9,4 @@ Projects:
 - 💰 Firebase Finances: An app that helps people make better financial decison using Monte Carlo simulations.  Built using React/Firebase.
 - 🍻 Drunken Tales of Springfield: A collaborative project where we created a game that tests reaction speeds and timing.  Built using vanilla JS/Sass/Api. 
 - 😼 Team Rocket Tryouts: A multiplayer game of chance that incorporates an API call to catch all the pokemons. Built using vanilla Javascript.
-- 🃏 Adventures of Lucky: Single player game that tests your foresight. Choose high or low and attempt a high score.  Built using Javascript with JQuery.
+- 🃏 Adventures of Lucky(HighOrLow): Single player game that tests your foresight. Choose high or low and attempt a high score.  Built using Javascript with JQuery.
